@@ -1,5 +1,9 @@
 Developed a React app that allows users to login/create an account using an email and password . Upon login , the user is directed to an account page that displays the user's email. 
 
+![Here is an example of the final product!](/login.png "Login")
+
+![Here is an example of the final product!](/loggedin.png "Login")
+
 Tools 
    - Google FireBase
    - Javascript 
